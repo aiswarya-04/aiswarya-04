@@ -1,16 +1,13 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on setting up my very first virtual lab environments to practice IT support and security skills.<br>👯 I’m looking to collaborate on simple beginner projects, study groups, or basic scripting challenges.<br>🤝 I’m looking for help with understanding tricky networking concepts and getting comfortable with command-line tools.<br>🌱 I’m currently learning the absolute basics of Linux, fundamental networking, and how Security Operations Centers (SOC) work.<br>💬 Ask me about why I chose to dive into cybersecurity after finishing my BTech CSE degree!<br>⚡ Fun fact: I break my virtual operating systems a lot, but fixing them is half the fun!
 
-<!--
-**aiswarya-04/aiswarya-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aiswarya-s-ba5a362b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaiswaryas004@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aiswarya-04&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aiswarya-04&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aiswarya-04&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
