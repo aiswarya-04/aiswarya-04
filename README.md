@@ -10,7 +10,14 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/VirtualBox-214294?style=for-the-badge&logo=virtualbox&logoColor=white" />
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aiswarya-04&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aiswarya-04&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aiswarya-04&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🗺️ Learning & Project Roadmap
+
+Here is the blueprint of my specialized repositories tracking my practical hands-on journey. Click on any repository below to explore my notes and labs:
+
+📁 **GitHub Profile** <br>
+ ├── 🌐 [networking-fundamentals](https://github.com/aiswarya-04/networking-fundamentals) — Core protocols, OSI layers, and infrastructure notes <br>
+ ├── 🛡️ `google-cybersecurity-notes` — Security frameworks, SIEM tools, and foundational concepts <br>
+ ├── 🖥️ `home-lab` — Active Directory setup, VM networking, and isolated testing <br>
+ ├── 🔍 `soc-projects` — Packet analysis, log monitoring, and defensive labs <br>
+ └── 💼 `forage-cybersecurity` — Virtual job simulations and enterprise security case studies
