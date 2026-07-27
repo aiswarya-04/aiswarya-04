@@ -2,7 +2,7 @@
 
 ### 🌐 **Aspiring Network & Cybersecurity Engineer**
 
-I recently graduated with a **B.Tech in Computer Science** and am passionate about **Networking, Linux, System Administration, and Cybersecurity**.
+I recently graduated with a **B.Tech in Computer Science & Engineering (CSE)** and am passionate about **Networking, Linux, System Administration, and Cybersecurity**.
 
 I'm currently building hands-on experience through virtual labs, practical projects, and detailed study repositories while working toward a career in **Network Engineering**, **IT Infrastructure**, and **Blue Team Security**.
 
