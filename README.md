@@ -1,56 +1,88 @@
-# 👋 Hi, I'm **Aiswarya S**
 
-### 🌐 **Aspiring Network & Cybersecurity Engineer**
+# Hi, I'm Aiswarya S 👋
 
-I recently graduated with a **B.Tech in Computer Science & Engineering (CSE)** and am passionate about **Networking, Linux, System Administration, and Cybersecurity**.
+### Cybersecurity | Network & System Security | Application Security
 
-I'm currently building hands-on experience through virtual labs, practical projects, and detailed study repositories while working toward a career in **Network Engineering**, **IT Infrastructure**, and **Blue Team Security**.
+B.Tech Computer Science and Engineering graduate with hands-on experience in Android application security testing, network fundamentals, Linux and Windows administration, SIEM monitoring, and backend development.
 
----
+I enjoy working with systems, exploring application security, analysing network behaviour, and building practical lab environments to strengthen my technical skills.
 
-## 🚀 **What I'm Currently Learning**
-
-* 🌐 **Networking** — TCP/IP, Routing & Switching
-* 🐧 **Linux Administration** — System Config, Bash & Hardening
-* 🛡️ **SIEM Solutions** — Wazuh Fundamentals & Log Analysis
-* 🖥️ **Windows Administration** — Event Logs, User Management & Active Directory
-* ☁️ **Virtual Lab Environments** — Windows & Linux Virtual Machines
-* 🔍 **SOC Operations** — Blue Team Fundamentals & Incident Response
+Currently exploring opportunities in **Cybersecurity, SOC Operations, Application Security, and Information Security.**
 
 ---
 
-## 🛠️ **Tech Stack & Skills**
+## 🛠️ Technical Skills
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| **Virtualization** | ![VirtualBox](https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) |
-| **Networking** | ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge) ![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge) ![DHCP](https://img.shields.io/badge/DHCP-00A98F?style=for-the-badge) ![SSH](https://img.shields.io/badge/SSH-181717?style=for-the-badge) ![HTTPS](https://img.shields.io/badge/HTTPS-0A66C2?style=for-the-badge) ![ARP](https://img.shields.io/badge/ARP-FF9800?style=for-the-badge) ![RDP](https://img.shields.io/badge/RDP-0078D6?style=for-the-badge) |
-| **Cybersecurity** | ![SIEM - Wazuh](https://img.shields.io/badge/SIEM--Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white) ![Win & Linux Logs](https://img.shields.io/badge/Win_%26_Linux_Logs-0078D6?style=for-the-badge) ![TLS/SSL](https://img.shields.io/badge/TLS/SSL-0A66C2?style=for-the-badge) ![PKI](https://img.shields.io/badge/PKI-1565C0?style=for-the-badge) |
-| **Programming & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge) |
+| **Operating Systems** | Windows, Ubuntu, Kali Linux |
+| **Networking** | TCP/IP, OSI Model, DNS, DHCP, ARP, SSH, RDP, IP Addressing, Subnetting, VLANs |
+| **Security & Analysis** | Wazuh, MobSF, JADX, Burp Suite, ADB |
+| **System & Virtualization** | Linux Administration, Windows Administration, VirtualBox |
+| **Programming** | Python, JavaScript, C, SQL |
+| **Web & Backend** | Node.js, Express.js, React, MongoDB, Mongoose, REST APIs |
+| **Tools & Deployment** | Git, GitHub, Docker, Postman, Render, Netlify |
 
 ---
 
-## 📂 **Featured Repositories**
+## 🔍 Areas of Interest
 
-### 🌐 [**Networking Fundamentals**](https://github.com/aiswarya-04/networking-fundamentals)
-> Comprehensive networking study notes covering network architecture, protocols, subnetting, routing, switching, DNS, HTTP/HTTPS, PKI, and hands-on networking concepts.
-* **Core Topics:** OSI & TCP/IP Models, Subnetting, NAT, Routing & Switching
-* **Protocols & Services:** DNS, DHCP, ARP, HTTP/S, PKI & Critical Ports
-
----
-
-## 🗺️ **Learning Roadmap**
-
-* [x] **Networking Fundamentals**
-* [ ] **Linux Fundamentals** *(In Progress)*
-* [ ] **Windows Administration & Active Directory**
-* [ ] **Home Lab Setup**
-* [ ] **SIEM (Splunk) & SOC Projects**
+- **Security Operations:** SIEM monitoring, log analysis, security event investigation, and SOC fundamentals.
+- **Application Security:** Android application testing, static APK analysis, API testing, and authentication security.
+- **Network Security:** Network protocols, traffic analysis, connectivity troubleshooting, and infrastructure security.
+- **System Administration:** Linux and Windows environments, system configuration, and virtualization.
 
 ---
 
-## 📫 **Connect With Me**
+## 🚀 Projects & Practical Experience
+
+### 🔐 Sahachari – Android Application Security Testing
+
+- Conducted authorized security testing of an Android application.
+- Reviewed authentication, authorization, input validation, local storage, deep links, and application configurations.
+- Performed static APK analysis using MobSF and JADX.
+- Used ADB and Burp Suite for application and API testing.
+- Documented a low-severity input-validation weakness with reproduction steps, evidence, and remediation recommendations.
+
+### 🖥️ Personal Infrastructure, Networking & Security Lab
+
+- Configured Windows, Ubuntu, and Kali Linux virtual machines using VirtualBox.
+- Practised network diagnostics using ping, traceroute, arp, and netstat.
+- Deployed Wazuh SIEM with Ubuntu agents for centralized security monitoring and log analysis.
+- Containerized a Node.js/Express REST API using Docker.
+
+### 🌐 MERN Task Manager
+
+- Developed a full-stack task management application using React, Node.js, Express.js, and MongoDB.
+- Implemented CRUD functionality through REST APIs.
+- Integrated frontend and backend services using Axios.
+- Deployed the frontend on Netlify and backend on Render.
+
+### ⚡ Intelligent Power Management Module (IPMM)
+
+- Contributed to the architecture and workflow design of an IoT-based energy-monitoring solution.
+- Worked on system workflows involving ESP32, PZEM-004T, Supabase, React Native, FastAPI, and PostgreSQL.
+
+---
+
+## 📚 Certifications
+
+- Google Cybersecurity Professional Certificate – Coursera
+- Practical Help Desk Certification – TCM Security
+- IEEE BLP – Cloud Computing for IoT Systems
+- IEEE BLP – Introduction to Blockchain
+- IEEE BLP – Python for Everyone
+- IEEE BLP – Introduction to Cybersecurity
+
+---
+
+## 📂 Study Repositories
+
+- [Networking Fundamentals](https://github.com/aiswarya-04/networking-fundamentals) – Notes and learning resources covering networking concepts, protocols, subnetting, and network architecture.
+
+---
+
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aiswarya-s-ba5a362b8)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaiswaryas004@gmail.com)
